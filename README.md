@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aidynaldangar
 - 👀 I’m interested in UX design, Data Analysis 
-- 🌱 Currently I’m doing Google UX courses
 - 📫 You can reach me via Telegram: aidynga
 
 <!---
